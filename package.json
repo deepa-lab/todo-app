@@ -2,14 +2,6 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "npm": "6.14.5",
-    "node": "12.18.2"
-<<<<<<< HEAD
-  },
-=======
-  }
->>>>>>> bf0e25e3b49998547730ab3f4709cfec5ce28667
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
